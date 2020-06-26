@@ -703,6 +703,9 @@ footer {
     font-size: 22px;
     margin: 1px;
   }
+  header span{
+  margin-right: 20px;
+  }
   .overlay a {
     font-size: 24px;
   }
