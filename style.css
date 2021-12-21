@@ -26,13 +26,14 @@ body {
   font-family: "Nunito", sans-serif;
   background: #eaf6f6;
 }
-header{
+header {
   margin: 1rem 0;
 }
 .logo {
   text-align: center;
   font-family: "Nunito", sans-serif;
   font-size: 40px;
+  font-weight: 300px;
 }
 .fa {
   padding: 20px;
@@ -578,8 +579,8 @@ footer {
   i.fas.fa-times {
     font-size: 26px;
   }
-  
-  header i.fas.fa-bars{
+
+  header i.fas.fa-bars {
     font-size: 26px;
   }
   .logo {
@@ -694,8 +695,8 @@ footer {
   i.fas.fa-times {
     font-size: 24px;
   }
-  
-  header i.fas.fa-bars{
+
+  header i.fas.fa-bars {
     font-size: 24px;
   }
   .logo {
@@ -705,8 +706,8 @@ footer {
     font-size: 22px;
     margin: 1px;
   }
-  header span{
-  margin-right: 20px;
+  header span {
+    margin-right: 20px;
   }
   .overlay a {
     font-size: 24px;
